@@ -77,7 +77,6 @@ footer {                      /* adjust as needed  */
 }
 .photo{
 	border-style: double;
-	border-width: 5px;
-	padding-left: 10px;
+	border-width: 3px;
 	box-shadow: 5px 5px 10px #666666;
 }
